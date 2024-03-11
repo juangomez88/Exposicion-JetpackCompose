@@ -81,7 +81,24 @@ Y este es el resultado de lo que llevamos al momento:
 
 ![image](https://github.com/juangomez88/Exposicion-JetpackCompose/assets/60585685/5f520b11-bfaa-4ae4-a715-397be50c89b0)
 
+Antes de terminar el `Body(){}` debemos crear un par de componentes, el componente `LoginDivider(){}` que es un separador entre login y el login por medio de redes, el otro componente a crear el el `SocialLogin(){}` que para este ejercicio solo tendra elementos quemados. Estos son los códigos de los composable creados:
 
+![image](https://github.com/juangomez88/Exposicion-JetpackCompose/assets/60585685/904d98b1-f60e-4360-a266-570845467771)
+
+
+![image](https://github.com/juangomez88/Exposicion-JetpackCompose/assets/60585685/462b151e-fbfb-4576-adf3-f3e44085b73a)
+
+Para el elemento `SocialLogin(){}` se puede guardar la imagen en la carpeta `drawable` como en el anterior componente que usaba la imagen de instagram, asi:
+
+![image](https://github.com/juangomez88/Exposicion-JetpackCompose/assets/60585685/926732ad-f55c-49ef-80a0-02708b91deee)
+
+La imagen usada es la siguiente:
+
+![fb](https://github.com/juangomez88/Exposicion-JetpackCompose/assets/60585685/9fc71427-4747-4459-a959-2a4a94fcd6da)
+
+Y el resultado obtenido hasta el momento es el siguiente:
+
+![image](https://github.com/juangomez88/Exposicion-JetpackCompose/assets/60585685/61a7d328-a463-462f-bc2a-ac316c626041)
 
 
 
