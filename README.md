@@ -100,7 +100,31 @@ Y el resultado obtenido hasta el momento es el siguiente:
 
 ![image](https://github.com/juangomez88/Exposicion-JetpackCompose/assets/60585685/61a7d328-a463-462f-bc2a-ac316c626041)
 
+Ahora vamos a crear el composable `Footer(){}` este será el código que usaremos:
 
+![image](https://github.com/juangomez88/Exposicion-JetpackCompose/assets/60585685/0114bffc-ad15-496a-90e3-d81bb2be1967)
+
+Notese que en este composable se hace el llamado a otra función, la función `SingUp()`, esta es otro composable que básicamente tendrá dos textos, uno de color gris(0xFFB5B5B5) y otro de color azul claro(0xFF4EA9E9). Este será nuestro composable `SingUp(){}`:
+
+![image](https://github.com/juangomez88/Exposicion-JetpackCompose/assets/60585685/802b19fd-0f65-4be9-8332-6046b90aade8)
+
+
+Este es el resultado de lo que llevamos construido hasta el momento:
+
+![image](https://github.com/juangomez88/Exposicion-JetpackCompose/assets/60585685/e0876399-45f1-4dcd-8ab4-ae2be189d794)
+
+Finalmente hacemos unos cambios esteticos a nuestro Log In de la siguiente manera:
+
+![image](https://github.com/juangomez88/Exposicion-JetpackCompose/assets/60585685/7cf60c74-41bc-47d0-a036-211631b2ff6c)
+
+
+![image](https://github.com/juangomez88/Exposicion-JetpackCompose/assets/60585685/0cff7d81-405e-4dc5-911b-d6969bfcf563)
+
+![image](https://github.com/juangomez88/Exposicion-JetpackCompose/assets/60585685/bc36b55b-b93e-44e2-b2ae-f432947adf4b)
+
+Y este es nuestro resultado final:
+
+![image](https://github.com/juangomez88/Exposicion-JetpackCompose/assets/60585685/fd60541e-e7ae-4b7e-8a99-bb3939b1b56f)
 
 
 
